@@ -1,13 +1,12 @@
 ---
 layout: post
-title:"Day 1"
-date:2019-09-16
+title: Day 1
 ---
 
-Day 1 
+Day 1
 Planned layout for the circuits on sweater
-Basic sketch 
-Color lights picked out 
+Basic sketch
+Color lights picked out
 Used tape (had no fabric chalk)
 
 
