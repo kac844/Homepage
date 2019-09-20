@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Day 1
+title:"Day 1"
 date:2019-09-16
-categories: Blog
 ---
 
 Day 1 
