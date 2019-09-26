@@ -19,7 +19,7 @@ Number of times I pricked my finger with the needle and did not bleed: 1
 Number of times I pricked my finger with the needle and did bleed: 0
 
 
-![this](../images/step1.gif)
+![this](/images/step1.gif)
 
 
 
