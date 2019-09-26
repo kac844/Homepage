@@ -3,7 +3,10 @@ layout: post
 title: Week 2
 ---
 
-Day 4 Saturday September 21 2019
+Day 4 
+
+Saturday September 21 2019
+
 Old design began lighting up after removing the tapes on the ends 
 Decided to keep old design but also make a new design at a different location 
 Sew in my new  design (Positive side)
@@ -11,7 +14,10 @@ Sew in my new  design (Positive side)
 Number of times I pricked my finger with the needle and did not bleed: 3
 Number of times I pricked my finger with the needle and did bleed: 0
 
-Day 5 Tuesday September 24 2019
+Day 5 
+
+Tuesday September 24 2019
+
 Sew in my new design (Negative side)
 Project did light up.
 Download Arduino IDE
