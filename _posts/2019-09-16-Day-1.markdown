@@ -6,12 +6,16 @@ title: Week 1
 
 Day 1
 Planned layout for the circuits on sweater
+
 Basic sketch
+
 Color lights picked out
+
 Used tape 
 
 
 Number of times I pricked my finger with the needle and did not bleed: 1
+
 Number of times I pricked my finger with the needle and did bleed: 0
 
 [My helpful screenshot](/Project2019/img1.jpg)
@@ -25,6 +29,7 @@ Tuesday September 17 2019
 Started Project on sweater 
 
 Test run on sewing 
+
 Mistake 1: Forgot that all the positive sides must connect 
 
 Mistake 2: knot in string
@@ -39,6 +44,7 @@ Solution: was able to flip them as I did not do the negative side yet (Bad solut
 Positive side connected
 
 Number of times I pricked my finger with the needle and did not bleed: 4
+
 Number of times I pricked my finger with the needle and did bleed: 0
 
 Day 3 
@@ -53,9 +59,11 @@ Solution: restart the project
 Mistake 2: place lights crookedly . Uneven spacing. Sewing is uneven
 
 Issues: the ends of the positive and negative wires kept touching.
+
 Solution: tape down ends. Need to find something more permanent 
 
 Number of times I pricked my finger with the needle and did not bleed: 8
+
 Number of times I pricked my finger with the needle and did bleed: 0
 
 
