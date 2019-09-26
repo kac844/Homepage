@@ -19,7 +19,7 @@ Number of times I pricked my finger with the needle and did not bleed: 1
 Number of times I pricked my finger with the needle and did bleed: 0
 
 
-![this](../project/img2.jpg)
+![this](../images/step1.gif)
 
 
 
@@ -68,5 +68,6 @@ Number of times I pricked my finger with the needle and did not bleed: 8
 Number of times I pricked my finger with the needle and did bleed: 0
 
 
-Conclusion
+Conclusion:
+
 The project ended up not lighting up but I plan to resew the project to see if my sewing is the problem. I should be more careful in how I sew and not rush to do the sewing also. 
