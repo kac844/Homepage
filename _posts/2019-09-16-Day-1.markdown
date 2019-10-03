@@ -3,23 +3,26 @@ layout: post
 title: Week 1
 ---
 
-# Day 1: September 16 2019
+# Day 1: Monday September 16 2019
 
 * Planned layout for the circuits on sweater
 
 * Basic sketch
 
 * Color lights picked out
+![sketch](/project/img2.JPG)
 
 * Used tape to figure out placement of the lights.
+![tape](/project/img3.JPG)
 
+## Results: 
 
 * Number of times I pricked my finger with the needle and did not bleed: 1
 
 * Number of times I pricked my finger with the needle and did bleed: 0
 
 
-![this](/project/img2.JPG)
+
 
 
 
@@ -28,6 +31,8 @@ title: Week 1
 * Started Project on sweater 
 
 * Test run on sewing 
+
+* Connecting positive side.
 
 ## Mistakes:
 
@@ -40,9 +45,11 @@ title: Week 1
 4. Placed the lights backwards
 	* Solution: was able to flip them as I did not do the negative side yet (Bad solution).
 
+![this](/project/img5.JPG)
 
-* Positive side connected.
 
+
+## Results: 
 * Number of times I pricked my finger with the needle and did not bleed: 4
 
 * Number of times I pricked my finger with the needle and did bleed: 0
@@ -63,11 +70,17 @@ title: Week 1
 3. The ends of the positive and negative wires kept touching.
 	* Solution: tape down ends. Need to find something more permanent 
 
+
+![done](/project/img6.JPG)
+
+
+## Results: 
+
 * Number of times I pricked my finger with the needle and did not bleed: 8
 
 * Number of times I pricked my finger with the needle and did bleed: 0
 
 
-# Conclusion:
+## Conclusion:
 
 * The project ended up not lighting up but I plan to resew the project to see if my sewing is the problem. I should be more careful in how I sew and not rush to do the sewing also. 
