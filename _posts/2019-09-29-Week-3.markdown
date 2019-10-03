@@ -1,0 +1,54 @@
+---
+layout: post
+title: Week 3
+---
+
+Day 6 September 29 2019
+ Tried to upload code to Lily Tiny with Arduino IDE.
+ Problem:
+
+ avrdude: Yikes!  Invalid device signature.
+         Double check connections and try again, or use -F to override
+         this check.
+ 
+		An error occurred while uploading the sketch
+
+
+ Emailed Professor Klukowska about the problem.
+ Waiting for Response
+
+Number of times I pricked my finger with the needle and did not bleed: 0
+
+Number of times I pricked my finger with the needle and did bleed: 0
+
+
+ Day 7 September 30 2019
+
+ Re-did project on a new sweater. 
+ Trying to see with a differnt material makes a differnce with the wireing.
+ Did the positive side today. 
+ Got a response from Professor Kluowska about solving my issue. 
+
+Number of times I pricked my finger with the needle and did not bleed: 1
+
+Number of times I pricked my finger with the needle and did bleed: 0
+
+
+
+ Day 8 October 1 2019
+ Finished the negative side today.
+ Project is working correctly except the white light. Accidently used the faulty white lights and the glow is very low. 
+
+ Tried solution for project. Did not ssolve my issue. tried to search up possible solutions. Nothign seemed to work.
+
+ Number of times I pricked my finger with the needle and did not bleed: 0
+
+ Number of times I pricked my finger with the needle and did bleed: 0
+
+
+Day 9 October 2 2019
+Tried again to fix Arduino IDE. No solution yet. 
+
+Number of times I pricked my finger with the needle and did not bleed: 0
+
+Number of times I pricked my finger with the needle and did bleed: 0
