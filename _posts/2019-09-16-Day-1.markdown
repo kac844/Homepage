@@ -3,71 +3,71 @@ layout: post
 title: Week 1
 ---
 
+# Day 1: September 16 2019
 
-Day 1
-Planned layout for the circuits on sweater
+* Planned layout for the circuits on sweater
 
-Basic sketch
+* Basic sketch
 
-Color lights picked out
+* Color lights picked out
 
-Used tape 
+* Used tape to figure out placement of the lights.
 
 
-Number of times I pricked my finger with the needle and did not bleed: 1
+* Number of times I pricked my finger with the needle and did not bleed: 1
 
-Number of times I pricked my finger with the needle and did bleed: 0
+* Number of times I pricked my finger with the needle and did bleed: 0
 
 
 ![this](/project/img2.JPG)
 
 
 
-Day 2 
+# Day 2: Tuesday September 17 2019
 
-Tuesday September 17 2019
+* Started Project on sweater 
 
-Started Project on sweater 
+* Test run on sewing 
 
-Test run on sewing 
+## Mistakes:
 
-Mistake 1: Forgot that all the positive sides must connect 
+1.  Forgot that all the positive sides must connect 
 
-Mistake 2: knot in string
+2. Knot in string
 
-Mistake 3: Broke string
+3. Broke string
 
-Mistake 4: placed the lights backwards
-
-Solution: was able to flip them as I did not do the negative side yet (Bad solution)
-
-
-Positive side connected
-
-Number of times I pricked my finger with the needle and did not bleed: 4
-
-Number of times I pricked my finger with the needle and did bleed: 0
-
-Day 3 
-
-Wednesday September 18 2019
-
-Task: Sew negative side and put in battery and try out project 
-
-Mistake 1: the circuits did not light up. Did not sew correctly
-Solution: restart the project
-
-Mistake 2: place lights crookedly . Uneven spacing. Sewing is uneven
-
-Issues: the ends of the positive and negative wires kept touching.
-
-Solution: tape down ends. Need to find something more permanent 
-
-Number of times I pricked my finger with the needle and did not bleed: 8
-
-Number of times I pricked my finger with the needle and did bleed: 0
+4. Placed the lights backwards
+	* Solution: was able to flip them as I did not do the negative side yet (Bad solution).
 
 
-Conclusion:
+* Positive side connected.
 
-The project ended up not lighting up but I plan to resew the project to see if my sewing is the problem. I should be more careful in how I sew and not rush to do the sewing also. 
+* Number of times I pricked my finger with the needle and did not bleed: 4
+
+* Number of times I pricked my finger with the needle and did bleed: 0
+
+
+
+# Day 3: Wednesday September 18 2019
+
+* Task: Sew negative side and put in battery and try out project. 
+
+## Mistakes:
+
+1.  The circuits did not light up. Did not sew correctly
+	* Solution: restart the project.
+
+2. Place lights crookedly, Uneven spacing, Sewing is uneven.
+
+3. The ends of the positive and negative wires kept touching.
+	* Solution: tape down ends. Need to find something more permanent 
+
+* Number of times I pricked my finger with the needle and did not bleed: 8
+
+* Number of times I pricked my finger with the needle and did bleed: 0
+
+
+# Conclusion:
+
+* The project ended up not lighting up but I plan to resew the project to see if my sewing is the problem. I should be more careful in how I sew and not rush to do the sewing also. 
