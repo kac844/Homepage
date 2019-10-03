@@ -14,7 +14,7 @@ title: Week 3
  * Waiting for Response.
 
 
-## Result:
+##Result:
 * Number of times I pricked my finger with the needle and did not bleed: 0
 
 * Number of times I pricked my finger with the needle and did bleed: 0
@@ -28,7 +28,7 @@ title: Week 3
  * Did the positive side today. 
  * Got a response from Professor Kluowska about solving my issue. 
 
-## Result:
+##Result:
 * Number of times I pricked my finger with the needle and did not bleed: 1
 
 * Number of times I pricked my finger with the needle and did bleed: 0
@@ -43,7 +43,7 @@ title: Week 3
  * Tried solution for project. Did not ssolve my issue. 
  * Tried to search up possible solutions. Nothing worked.
 
-## Result:
+##Result:
 * Number of times I pricked my finger with the needle and did not bleed: 0
 
 * Number of times I pricked my finger with the needle and did bleed: 0
