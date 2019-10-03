@@ -9,7 +9,7 @@ title: Week 2
 * Decided to keep old design but also make a new design at a different location 
 * Sew in my new  design (Positive side)
 
-##Result: 
+## Result: 
 * Number of times I pricked my finger with the needle and did not bleed: 3
 * Number of times I pricked my finger with the needle and did bleed: 0
 
@@ -22,7 +22,7 @@ title: Week 2
 
 * Download Arduino IDE
 
-##Result:
+## Result:
 
 * Number of times I pricked my finger with the needle and did not bleed: 2
 
