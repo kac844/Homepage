@@ -10,10 +10,10 @@ title: Week 1
 * Basic sketch
 
 * Color lights picked out
-![sketch](/project/img2.JPG)
+![sketch]({{site.url}/project/img2.JPG)
 
 * Used tape to figure out placement of the lights.
-![tape](/project/img3.JPG)
+![tape]({{site.url}}/project/img3.JPG)
 
 ## Results: 
 
