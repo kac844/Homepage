@@ -58,3 +58,11 @@ title: Week 3
 * Number of times I pricked my finger with the needle and did not bleed: 0
 
 * Number of times I pricked my finger with the needle and did bleed: 0
+
+
+# Day 10: Thursday, October 3 2019
+*Discovered that the issue was with my USB Ports.
+	*They no longer work/are broken.
+*The other issue was that I fried the ATtiny circuit 
+* Replacement of the attiny are being ordered.
+*Will use Qemu as a way to virtually test out code.

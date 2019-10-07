@@ -45,7 +45,7 @@ title: Week 1
 4. Placed the lights backwards
 	* Solution: was able to flip them as I did not do the negative side yet (Bad solution).
 
-![this](/project/img5.JPG)
+![this]({site.url}/project/img5.JPG)
 
 
 
@@ -71,7 +71,7 @@ title: Week 1
 	* Solution: tape down ends. Need to find something more permanent 
 
 
-![done](/project/img6.JPG)
+![done]({site.url}/project/img6.JPG)
 
 
 ## Results: 
