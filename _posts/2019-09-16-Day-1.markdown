@@ -10,10 +10,10 @@ title: Week 1
 * Basic sketch
 
 * Color lights picked out
-![sketch]({site.url}/project/img2.JPG)
+![sketch]({{site.url}}/project/img2.JPG)
 
 * Used tape to figure out placement of the lights.
-![tape]({site.url}/project/img3.JPG)
+![tape]({{site.url}}/project/img3.JPG)
 
 ## Results: 
 
@@ -45,7 +45,7 @@ title: Week 1
 4. Placed the lights backwards
 	* Solution: was able to flip them as I did not do the negative side yet (Bad solution).
 
-![this]({site.url}/project/img5.JPG)
+![this]({{site.url}}/project/img5.JPG)
 
 
 
@@ -71,7 +71,7 @@ title: Week 1
 	* Solution: tape down ends. Need to find something more permanent 
 
 
-![done]({site.url}/project/img6.JPG)
+![done]({{site.url}}/project/img6.JPG)
 
 
 ## Results: 

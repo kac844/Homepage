@@ -18,7 +18,7 @@ title: Week 2
 * Sew in my new design (Negative side)
 * Project did light up.
 
-![this]({site.url}/project/img8.JPG)
+![this]({{site.url}}/project/img8.JPG)
 
 * Download Arduino IDE
 
