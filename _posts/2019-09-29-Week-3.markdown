@@ -59,4 +59,14 @@ title: Week 3
 
 * Number of times I pricked my finger with the needle and did bleed: 0
 
+# Day 10: Thursday, October 3 2019
+* Issue was solved during the meeting with Arduino IDE
+	* I have broken USB Ports on my laptop
+	* I fried the attiny circuit
+* Issues with images on github was also solved
+	* I had to change the config.yml url
+	* Had to put "site.url" in the image tags
+
+* Will use Qemu to try coding the attiny circuit until it  actually comes in
+
 
