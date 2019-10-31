@@ -1,0 +1,31 @@
+---
+layout: post
+title: Week ???(I lost track of the week it is)
+---
+
+# Day ?: Monday, October 28, 2019
+* For phase 2 of this project I was inspired by these two Arduino projects:
+
+* Links here: https://create.arduino.cc/projecthub/Jalal_Mansoori/morse-code-communication-using-arduino-f339c0 and https://www.instructables.com/id/Morse-code-with-arduinoLED/
+
+* My project stems from the fact that during the winter it is often very dark by the time I come home and have to walk.  So I wanted to create some sort of lights that I could place on  some dog clothing so I could have some sort of light to see where I was walking.
+
+* I decided to use the lights to send out a message in Morse code because why not. I manage to write some code that blinks out my dogs name but the code is really long and inefficient if I want to write a longer message. So today, I began rewriting my code for my project. 
+
+
+## Result:
+* Number of times I pricked my finger with the needle and did not bleed: 0
+
+* Number of times I pricked my finger with the needle and did bleed: 0
+
+
+
+
+# Day ?: Tuesday, October 29 2019
+
+* I finish writing my code. I decided to use a second battery for the light that would just stay on and have nothing happen to them as there a limit on the amount of lights I can change the code to with the Arduino Lily Tiny. Tomorrow I am going to assemble everything. 
+
+## Result:
+* Number of times I pricked my finger with the needle and did not bleed: 0
+
+* Number of times I pricked my finger with the needle and did bleed: 0
