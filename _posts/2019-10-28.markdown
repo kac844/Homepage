@@ -29,3 +29,15 @@ title: Week ???(I lost track of the week it is)
 * Number of times I pricked my finger with the needle and did not bleed: 0
 
 * Number of times I pricked my finger with the needle and did bleed: 0
+
+
+# Day ?: Wednesday, October 30, 2019
+* There were several issues with sewing on the lights on the chosen piece of clothing.
+	* Only one of the lights turned on so I decided to resew the other two lights.
+
+![this]({{site.url}}/project/img9.jpg)
+
+* After resewing the second light, by the looks of it, the light was fried.
+* I ran out of thread so I could not sew the third light to see if it even worked. 
+
+* By the looks of it, I am going to have to resew the entire project and switch out the broken lights. 
